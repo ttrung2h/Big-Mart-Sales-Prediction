@@ -1,6 +1,6 @@
 import pandas as pd
 from DataPipeLine.data_pipe_line import BigMartSalesDataPipeLine
-from Model_Pipe_Line.model_pipe_line import BigMartSaleModelPipeLine
+from ModelPipeLine.model_pipe_line import BigMartSaleModelPipeLine
 import json
 import warnings
 import pickle
