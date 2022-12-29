@@ -4,7 +4,7 @@ Walmart is a renowned retail corporation that operates a chain of hypermarkets. 
 ## Business Objectives
 Our Main Objective is to predict sales of store in a week. As in dataset size and time related data are given as feature, so analyze if sales are impacted by time-based factors and space- based factor. Most importantly how inclusion of holidays in a week soars the sales in store?
 
-![Feature Description]('data\sale_data\BigMartSales Prediction\Description.png')
+![Feature Description](https://github.com/ttrung2h/Big-Mart-Sales-Prediction/blob/main/data/sale_data/BigMartSales%20Prediction/Description.png)
 
 
 ## Machine Learning Algorithm Used
